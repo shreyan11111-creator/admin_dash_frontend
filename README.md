@@ -83,7 +83,7 @@ This project assumes a standard Node.js environment.
     ```
 
 4.  **Open in Browser**
-    Navigate to `http://localhost:5173` (or the port shown in your terminal).
+    Navigate to `http://localhost:3000` (or the port shown in your terminal).
 
 ---
 
