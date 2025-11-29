@@ -52,6 +52,20 @@ This project was developed as a Frontend Engineer Assessment Task. It features a
 
 ---
 
+## Technologies Used
+
+This project leverages the following key React libraries and tools:
+
+*   **react** (v19): The core JavaScript library for building user interfaces.
+*   **react-dom** (v19): Provides DOM-specific methods that enable React components to interact with the browser's DOM.
+*   **react-router-dom** (v6.22.0): A library for handling client-side routing within React applications, enabling navigation without full page reloads.
+*   **recharts** (v2.12.0): A composable charting library built with React and D3, used for rendering interactive charts on the Analytics page.
+*   **@vitejs/plugin-react**: A Vite plugin that offers enhanced developer experience for React projects, including Fast Refresh and other optimizations during development.
+
+## Getting Started
+
+Instructions on how to set up and run the project locally.
+
 ## 📦 Installation & Setup
 
 This project assumes a standard Node.js environment.
