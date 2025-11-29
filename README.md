@@ -108,6 +108,21 @@ I used **Tailwind CSS**.
 *   `context/`: Contains the global state provider.
 
 ---
+### Screenshots Implementation
+<img width="1911" height="872" alt="download" src="https://github.com/user-attachments/assets/e892fb43-e472-4aaa-87d8-1ecb8150b04c" />
+<img width="1617" height="870" alt="image" src="https://github.com/user-attachments/assets/763da587-e441-46bb-b5b4-b2e9c5f00c2a" />
+<img width="1578" height="833" alt="image" src="https://github.com/user-attachments/assets/7d01ee19-2108-465d-bd4d-aefe0d042ea8" />
+<img width="1196" height="703" alt="image" src="https://github.com/user-attachments/assets/7bd9c6e8-24aa-4f5b-9723-010c09396b3e" />
+
+### Pagination
+<img width="1547" height="348" alt="image" src="https://github.com/user-attachments/assets/f0b9986b-aad1-4152-991a-dfef5644a44e" />
+
+### DarkMode
+<img width="1588" height="772" alt="image" src="https://github.com/user-attachments/assets/bf5011fb-8681-490f-9828-21a06587ae29" />
+
+
+
+
 
 ## 📸 Mock Data
 The application uses a deterministic data generator (`constants.ts`) to create a realistic list of 20 users and associated activity logs every time the app loads, ensuring a populated UI for testing.
