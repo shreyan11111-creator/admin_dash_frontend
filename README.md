@@ -120,7 +120,9 @@ I used **Tailwind CSS**.
 ### DarkMode
 <img width="1588" height="772" alt="image" src="https://github.com/user-attachments/assets/bf5011fb-8681-490f-9828-21a06587ae29" />
 
-
+### Click on the Video Demo below.
+<video src="https://www.loom.com/share/1acb84ed67964237af45eb6cfe9eb492"></video>
+[![Video Title](https://github.com/user-attachments/assets/e892fb43-e472-4aaa-87d8-1ecb8150b04c)](https://www.loom.com/share/1acb84ed67964237af45eb6cfe9eb492)
 
 
 
