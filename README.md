@@ -64,7 +64,7 @@ This project assumes a standard Node.js environment.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/admindash.git
+    git clone https://github.com/shreyan11111-creator/admin_dash_frontend/
     cd admindash
     ```
 
